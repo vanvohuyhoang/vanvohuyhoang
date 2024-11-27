@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**vanvohuyhoang/vanvohuyhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Firmware Engineer | Hardware Engineer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Hoang Vo, a passionate Firmware and Hardware Engineer with 8+ years of experience specializing in embedded systems and IoT product development. I thrive on solving complex engineering challenges and bringing innovative ideas to life through code and design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💡 **Personal Projects**
+Take a look at some of my projects that reflect my expertise and passion for embedded systems and IoT:
+
+- Explore my work on GitHub: https://github.com/vanvohuyhoang
+
+### Skills and Expertise
+- Embedded Firmware Development
+- PCB Design and Hardware Integration
+- IoT Product Design and Prototyping
+- Low-power Wireless Communication (Bluetooth, Zigbee, LoRa, etc.)
+- Microcontrollers (ARM, AVR, ESP32, etc.)
+- Sensor Integration and Driver Development
+- Debugging and Performance Optimization
+
+### 📫 **Let's Connect**
+Feel free to reach out to me!
+- GitHub: [https://github.com/vanvohuyhoang]
+- Email: [vanvohuyhoang@gmail.com]
+
+### 🚀 **What Drives Me?**
+I'm passionate about crafting solutions that bridge hardware and software, driving innovation in IoT and embedded systems. Whether it's developing efficient firmware, creating robust hardware designs, or exploring new technologies, I always strive for excellence.
+
+Let's innovate together! 🚀✨
